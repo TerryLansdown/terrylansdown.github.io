@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Terry Lansdown Creates Github Page"
-date: 6, April 2016
+title: "Test Post"
+date: 2016-04-06-15-00
 ---
 
-Well. Finally got around to putting this together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation llamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[RSS][1]
+
+[1]: http://terrylansdown.github.io/blog/atom.xml
