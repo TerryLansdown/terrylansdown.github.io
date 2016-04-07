@@ -1,3 +1,4 @@
 name: Terry Lansdown
 markdown: kramdown
 permalink: /:year/:month/:day/:title
+paginate: 2
