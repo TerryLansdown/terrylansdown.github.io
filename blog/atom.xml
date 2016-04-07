@@ -5,10 +5,10 @@ layout: null
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Terry Lansdown</title>
-	<link href="http://terrylansdown.github.io/blog/atom.xml" rel="self"/>
-	<link href="http://terrylansdown.github.io/blog"/>
+	<link href="http://terrylansdown.github.io/posts/atom.xml" rel="self"/>
+	<link href="http://terrylansdown.github.io/posts"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://terrylansdown.github.io/blog</id>
+	<id>http://terrylansdown.github.io/posts</id>
 	<author>
 		<name>Terry Lansdown</name>
 		<email>terry@lansdown.me</email>
