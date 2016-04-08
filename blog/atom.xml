@@ -5,7 +5,7 @@ layout: null
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Terry Lansdown</title>
-	<link href="http://terrylansdown.github.io/atom.xml" rel="self"/>
+	<link href="http://terrylansdown.github.io/posts/atom.xml" rel="self"/>
 	<link href="http://terrylansdown.github.io"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://terrylansdown.github.io</id>
@@ -19,7 +19,7 @@ layout: null
 			<title>{{ post.title }}</title>
 			<link href="http://terrylansdown.github.io{{ post.url }}"/>
 			<updated>{{ post.date | date_to_xmlschema }}</updated>
-			<id>http://terrylansdown.github.io/{{ post.id }}</id>
+			<id>http://terrylansdown.github.io/posts/{{ post.id }}</id>
 			<content type="html">{{ post.content | xml_escape }}</content>
 		</entry>
 	{% endfor %}
