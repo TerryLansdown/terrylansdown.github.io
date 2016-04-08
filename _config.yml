@@ -1,4 +1,4 @@
 name: Terry Lansdown
 markdown: kramdown
-permalink: /:posts/:year/:month/:day/:title
+permalink: /posts/:year/:month/:day/:title
 paginate: 2
