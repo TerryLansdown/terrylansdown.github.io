@@ -41,3 +41,10 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+img {
+    width: 70%;
+    vertical-align:middle;
+    max-height: 100%;
+}
+}
