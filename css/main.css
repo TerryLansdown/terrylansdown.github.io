@@ -46,6 +46,6 @@ ul.posts li {
 {
     margin: 0 auto;
     display: block;
-    max-width: 70%;
+    max-width: 100%;
     height: auto;
 }
