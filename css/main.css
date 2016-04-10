@@ -42,7 +42,8 @@ ul.posts li {
     list-style: none;
 }
 
-img {
-    vertical-align:middle;
-    max-height: 100%;
+.center-image
+{
+    margin: 0 auto;
+    display: block;
 }
