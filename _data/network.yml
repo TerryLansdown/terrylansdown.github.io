@@ -1,0 +1,21 @@
+- menu_name: "Thank You to…"
+
+- name: "Daniel Bruce for Icons"
+  url: "http://entypo.com/"
+  class: "network-entypo"
+  title: "Icons by Daniel Bruce"
+
+- name: "Unsplash for Images…"
+  url: "http://unsplash.com/"
+  class: "rss-link"
+  title: "Images by Unsplash"
+
+- name: "Scott Robbin for Backstretch"
+  url: "http://srobbin.com/jquery-plugins/backstretch/"
+  class: "sitemap-link"
+  title: "Using Backstretch by Scott Robbin"
+
+- name: "Built on Foundation"
+  url: "http://foundation.zurb.com/"
+  class: "services-newsletter"
+  title: "Built on Foundation"

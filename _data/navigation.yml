@@ -1,0 +1,39 @@
+#
+#   Navigation to the left › side: left
+#
+- title: Home
+  url: "/"
+  side: left
+
+#- title: "Dropdown Menu"
+#  url: "#"
+#  side: left
+#  dropdown:
+#  - title: "Dropdown Menu 1"
+#    url: "#"
+#  - title: "Dropdown Menu 2"
+#    url: "#"
+#  - title: "Dropdown Menu 3"
+#    url: "#"
+
+- title: Blog
+  url: "/posts/"
+  side: left
+  dropdown:
+  - title: "The Archive"
+    url: "/posts/archive/"
+
+#
+#   Navigation to the right › side: right
+#
+#- title: "Info"
+#  url: "/info/"
+#  side: right
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+#- title: "Contact"
+#  url: "/contact/"
+#  side: right
