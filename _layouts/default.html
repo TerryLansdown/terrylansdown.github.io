@@ -1,32 +1,24 @@
-<!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-	        		<!--
-		        	<li><a href="/about">About</a></li>
-		        	-->
-	        		<li><a href="/posts/">Blog</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
+---
+layout: compress
+---
+<!doctype html>
+<html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
+<head>
+	{% include _head.html %}
+</head>
+<body id="top-of-page" class="{{ layout.format }}">
+	{% unless page.skip_boilerplate %}
+	{% include _navigation.html %}
+	{% endunless %}
 
-			{{ content }}
+	{% include _masthead.html %}
 
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	    			<!--
-	        		<li><a href="mailto:terry@lansdown.me">email</a></li>
-	        		<li><a href="https://github.com/terrylansdown">github.com/terrylansdown</a></li>
-	        		-->
-				</ul>
-			</footer>
-		</body>
-	</html>
+	{{ content }}
+
+	{% unless page.skip_boilerplate %}
+	{% include _footer.html %}
+	{% endunless %}
+
+	{% include _footer_scripts.html %}
+</body>
+</html>
