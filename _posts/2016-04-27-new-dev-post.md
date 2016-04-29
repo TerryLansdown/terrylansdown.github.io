@@ -21,4 +21,4 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 [RSS][1]
 
-[1]: http://terrylansdown.github.io/blog/atom.xml
+[1]: http://terrylansdown.github.io/atom.xml
