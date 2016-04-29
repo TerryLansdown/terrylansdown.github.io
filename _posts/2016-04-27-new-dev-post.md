@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Dev branch"
 subheadline: "testing"
 teaser: "well, what does this do?"
