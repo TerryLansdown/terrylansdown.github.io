@@ -21,7 +21,7 @@
 #  side: left
 #  dropdown:
 #  - title: "The Archive"
-#    url: "/posts/archive/"
+#    url: "/blog/archive/"
 
 #
 #   Navigation to the right › side: right
@@ -39,7 +39,7 @@
   side: right
 
 - title: Archive
-  url: "/posts/archive/"
+  url: "/archive/"
   side: right
 
 #- title: "Contact"
