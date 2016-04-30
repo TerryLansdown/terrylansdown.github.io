@@ -1,9 +1,9 @@
 #
 #   Navigation to the left › side: left
 #
-- title: Home
-  url: "/"
-  side: left
+#- title: Home
+#  url: "/"
+#  side: left
 
 #- title: "Dropdown Menu"
 #  url: "#"
