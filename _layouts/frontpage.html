@@ -71,9 +71,11 @@ format: blog-index
             </p>
 -->
             {% if post.image.caption_url && post.image.caption %}
+          <!--   
             <p class="text-right caption">
                 <a href="{{ post.image.caption_url }}">{{ post.image.caption }}</a>
             </p>
+            
             {% endif %}
             {% else post.image.homepage == NULL %}
             <h2>{{ site.data.language.new_blog_entries }}</h2>
