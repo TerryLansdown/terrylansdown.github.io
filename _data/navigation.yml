@@ -1,9 +1,9 @@
 #
 #   Navigation to the left › side: left
 #
-#- title: Home
-#  url: "/"
-#  side: left
+- title: Home
+  url: "/"
+  side: left
 
 #- title: "Dropdown Menu"
 #  url: "#"
@@ -20,8 +20,8 @@
 #  url: "/posts/"
 #  side: left
 #  dropdown:
-#  - title: "The Archive"
-#    url: "/blog/archive/"
+#  - title: "Archive"
+#    url: "/archive/"
 
 #
 #   Navigation to the right › side: right

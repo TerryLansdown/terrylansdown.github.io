@@ -30,7 +30,7 @@ $ci-2: #939393; // Switched to Grey // #45B29D;		// turquoise
 $ci-3: #EFC94C; // yellow
 $ci-4: #E27A3F;	// orange
 $ci-5: #DF4949;	// red
-$ci-6: #939393; // Switched to Grey // #A1D044;     // green
+$ci-6: silver; // Switched to Grey // #A1D044;     // green
 
 
 
@@ -108,10 +108,9 @@ $footer-bg: $grey-8;
 $footer-color: #fff;
 $footer-link-color: $ci-6;
 
-
 $subfooter-bg: $grey-13;
 $subfooter-color: $grey-8;
-$subfooter-link-color: $grey-8;
+$subfooter-link-color: silver; //$grey-8;
 
 
 

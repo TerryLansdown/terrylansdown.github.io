@@ -274,12 +274,12 @@ body.video cite { color: #fff; }
     }
 
     #footer a {
-        color: $footer-link-color;
+        color: silver !important;
     }
     #footer h4,
     #footer h5 {
         letter-spacing: 1px;
-        color: #fff;
+        color: white;
         text-transform: uppercase;
     }
 
@@ -298,7 +298,7 @@ body.video cite { color: #fff; }
         float: left;
     }
     #subfooter .credits a {
-        color: $subfooter-link-color;
+        color: silver;
         border: 0;
         text-transform: uppercase;
         &:hover {
@@ -338,7 +338,7 @@ body.video cite { color: #fff; }
 .b15 { margin-bottom: 15px !important; }
 .b20 { margin-bottom: 20px !important; }
 .b30 { margin-bottom: 30px !important; }
-.b60 { margin-bottom: 60px !important; }
+.b60 { margin-bottom: 0px !important; }
 
 .l15 { margin-left: 15px !important; }
 .r15 { margin-right: 15px !important; }
