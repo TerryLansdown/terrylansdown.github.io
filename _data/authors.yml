@@ -6,8 +6,8 @@
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 phlow: # replace this with your info
-  name: "My name"
-  siterole: "My role is…"
+  name: "Terry Lansdown"
+  siterole: "Author"
   uri: # http://phlow.de/
   email:
   twitter: # "@phlow"
