@@ -32,11 +32,11 @@
 
 - title: "Search"
   url: "/search/"
-  side: right
+  side: left
 
 - title: Blog
   url: "/posts/"
-  side: right
+  side: left
 
 - title: Archive
   url: "/archive/"
@@ -44,4 +44,4 @@
 
 #- title: "Contact"
 #  url: "/contact/"
-#  side: right
+#  side: left
