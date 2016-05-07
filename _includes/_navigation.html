@@ -33,7 +33,8 @@
 
           {% comment %}   If there are links for right side begin   {% endcomment %}
           {% if link.side == 'right' %}
-            {% comment %}   If right side WITHOUT dropdown menu do   {% endcomment %}
+{% comment %}   If right side WITHOUT dropdown menu do   
+{% endcomment %}
             {% if link.dropdown == nil %}
               <li class="divider"></li>
               <li{% if link.url == page.url %} class="active"{% endif %}><a href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title | escape }}</a></li>
