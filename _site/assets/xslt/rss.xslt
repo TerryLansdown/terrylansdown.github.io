@@ -345,9 +345,8 @@
           </div><!-- /.large-3.columns -->
         </div><!-- /.row -->
 
-      </div><!-- /#footer -->
+      </div><!-- /#footer 
 
-<!--
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
@@ -360,7 +359,7 @@
             </ul>
           </section>
         </nav>
-      </div>--><!-- /#subfooter -->
+      </div> /#subfooter -->
     </footer>
 
 		
