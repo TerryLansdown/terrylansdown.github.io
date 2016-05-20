@@ -3,8 +3,20 @@
 #
 - title: Home
   url: "/"
-  side: left
+  side: right
 
+- title: Blog
+  url: "/posts/"
+  side: right
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: Archive
+  url: "/archive/"
+  side: right
+  
 #- title: "Dropdown Menu"
 #  url: "#"
 #  side: left
@@ -22,26 +34,13 @@
 #  dropdown:
 #  - title: "Archive"
 #    url: "/archive/"
-
 #
 #   Navigation to the right › side: right
 #
 #- title: "Info"
 #  url: "/info/"
 #  side: right
-
-- title: "Search"
-  url: "/search/"
-  side: left
-
-- title: Blog
-  url: "/posts/"
-  side: left
-
-- title: Archive
-  url: "/archive/"
-  side: right
-
+#
 #- title: "Contact"
 #  url: "/contact/"
 #  side: left
