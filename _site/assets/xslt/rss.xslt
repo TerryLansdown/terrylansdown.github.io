@@ -90,7 +90,9 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000"<!--class="icon-tree"-->Random Rambunctiousness</a></h1>
+      <!--
+      <h1 class="show-for-small-only"><a href="http://localhost:4000"<!--class="icon-tree"--><!--Random Rambunctiousness--></a></h1>
+      -->
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span><!--Navigation--></span></a></li>
@@ -195,8 +197,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000" title="Random Rambunctiousness – A Place for…">
-				<img src="http://localhost:4000/assets/img/logo.png" alt="Random Rambunctiousness – A Place for…">
+			<a id="logo" href="http://localhost:4000" title="Random Rambunctiousness – A Place for Random Rambunctiousness">
+				<img src="http://localhost:4000/assets/img/logo.png" alt="Random Rambunctiousness – A Place for Random Rambunctiousness">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -345,9 +347,8 @@
           </div><!-- /.large-3.columns -->
         </div><!-- /.row -->
 
-      </div><!-- /#footer -->
+      </div><!-- /#footer 
 
-<!--
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
@@ -360,7 +361,7 @@
             </ul>
           </section>
         </nav>
-      </div>--><!-- /#subfooter -->
+      </div> /#subfooter -->
     </footer>
 
 		
