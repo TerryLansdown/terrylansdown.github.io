@@ -4,7 +4,7 @@
 	<title>Terry Lansdown</title>
 	<link href="http://terrylansdown.github.io/posts/atom.xml" rel="self"/>
 	<link href="http://terrylansdown.github.io/posts"/>
-	<updated>2016-05-20T09:10:14+01:00</updated>
+	<updated>2016-05-26T17:30:16+01:00</updated>
 	<id>http://terrylansdown.github.io/posts</id>
 	<author>
 		<name>Terry Lansdown</name>
@@ -13,20 +13,11 @@
 
 	
 		<entry>
-			<title>This is a title</title>
-			<link href="http://terrylansdown.github.io/posts/2016/05/19/Testing"/>
-			<updated>2016-05-19T22:36:00+01:00</updated>
-			<id>http://terrylansdown.github.io//posts/2016/05/19/Testing</id>
-			<content type="html">&lt;p&gt;How about this?&lt;/p&gt;
-</content>
-		</entry>
-	
-		<entry>
 			<title>Hold Fire...</title>
 			<link href="http://terrylansdown.github.io/posts/2012/10/22/hold-fire"/>
 			<updated>2012-10-22T17:13:00+01:00</updated>
 			<id>http://terrylansdown.github.io//posts/2012/10/22/hold-fire</id>
-			<content type="html">&lt;p&gt;…Just too busy with work stuff to add much here. Back to it soon.&lt;/p&gt;
+			<content type="html">&lt;p&gt;…Just too busy with work stuff to add much here. Back to it soon[ish].&lt;/p&gt;
 </content>
 		</entry>
 	

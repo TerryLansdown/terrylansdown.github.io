@@ -5,7 +5,7 @@
 
 	<id>http://localhost:4000/</id>
 	<title>Random Rambunctiousness</title>
-	<updated>2016-05-20T09:10:14+01:00</updated>
+	<updated>2016-05-26T17:30:16+01:00</updated>
 
 	<subtitle></subtitle>
 
@@ -16,36 +16,6 @@
 
 	<generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator>
 
-	
-		<entry>
-			<id>http://localhost:4000/posts/2016/05/19/Testing</id>
-			<title>This is a title</title>
-			<link href="http://localhost:4000/posts/2016/05/19/Testing" rel="alternate" type="text/html" title="This is a title" />
-			<updated>2016-05-19T22:36:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Terry Lansdown</name>
-					
-					
-					
-				</author>
-			
-			<summary>1st paragraph teaser here?</summary>
-			<content type="html" xml:base="http://localhost:4000/posts/2016/05/19/Testing">&lt;p&gt;How about this?&lt;/p&gt;
-</content>
-
-			
-			
-				<category term="potato" />
-			
-				<category term="spud" />
-			
-
-			<published>2016-05-19T22:36:00+01:00</published>
-		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/posts/2012/10/22/hold-fire</id>
@@ -63,8 +33,8 @@
 					
 				</author>
 			
-			<summary>1st paragraph teaser here?</summary>
-			<content type="html" xml:base="http://localhost:4000/posts/2012/10/22/hold-fire">&lt;p&gt;…Just too busy with work stuff to add much here. Back to it soon.&lt;/p&gt;
+			<summary>Too much…</summary>
+			<content type="html" xml:base="http://localhost:4000/posts/2012/10/22/hold-fire">&lt;p&gt;…Just too busy with work stuff to add much here. Back to it soon[ish].&lt;/p&gt;
 </content>
 
 			
@@ -305,6 +275,34 @@
 			
 
 			<published>2012-03-01T09:06:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/posts/2012/02/15/there-no-issue-with-apple-cables</id>
+			<title>There&#39;s no issue with Apple cables getting tangled</title>
+			<link href="http://localhost:4000/posts/2012/02/15/there-no-issue-with-apple-cables" rel="alternate" type="text/html" title="There&#39;s no issue with Apple cables getting tangled" />
+			<updated>2012-02-15T14:33:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Terry Lansdown</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/posts/2012/02/15/there-no-issue-with-apple-cables">&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;center&gt;&lt;a href=&quot;https://picasaweb.google.com/t.c.lansdown/IfYouVeGotAThinGripDonTHangAbout?authkey=Gv1sRgCLu5hpP8hY69FQ#5709370460076661490&quot;&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/-yVR7EdjISGY/TzvCLxP6WvI/AAAAAAAAAUA/qJx9OnZixwI/s288/0.jpg&quot; border=&quot;0&quot; width=&quot;400&quot; height=&quot;400&quot; style=&quot;margin:5px&quot; /&gt;&lt;/a&gt;&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+
+			
+			
+				<category term="Funcationality" />
+			
+
+			<published>2012-02-15T14:33:00+00:00</published>
 		</entry>
 	
 </feed>

@@ -9,19 +9,10 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>This is a title</title>
-				<link>http://localhost:4000/posts/2016/05/19/Testing</link>
-				<pubDate>Thu, 19 May 2016 22:36:00 +0100</pubDate>
-				<description>&lt;p&gt;How about this?&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://localhost:4000/posts/2016/05/19/Testing</guid>
-			</item>
-		
-			<item>
 				<title>Hold Fire...</title>
 				<link>http://localhost:4000/posts/2012/10/22/hold-fire</link>
 				<pubDate>Mon, 22 Oct 2012 17:13:00 +0100</pubDate>
-				<description>&lt;p&gt;…Just too busy with work stuff to add much here. Back to it soon.&lt;/p&gt;
+				<description>&lt;p&gt;…Just too busy with work stuff to add much here. Back to it soon[ish].&lt;/p&gt;
 </description>
 				<guid isPermaLink="true">http://localhost:4000/posts/2012/10/22/hold-fire</guid>
 			</item>
@@ -102,6 +93,15 @@
 				<description>&lt;p&gt;My experience of iTunes Match on my slow rural broadband is not good, when bandwidth is tight, i.e., always. When I select a track to stream (well download really), iTunes will fail and skip to the next track; then fail, skip to the next track; then…err…fail and skip the next track. Clearly, its comparing download speeds with playback and giving up. Jumping to the next track just isn’t the behaviour I’m expecting, and it resets the problem, nnngh.&lt;br /&gt;&lt;br /&gt;Update: Actually, calmed down a bit now, general performance is good, but when the ‘small pipe’ is under stress, it fails badly.&lt;/p&gt;
 </description>
 				<guid isPermaLink="true">http://localhost:4000/posts/2012/03/01/itunes-match-not-good-on-slow</guid>
+			</item>
+		
+			<item>
+				<title>There&#39;s no issue with Apple cables getting tangled</title>
+				<link>http://localhost:4000/posts/2012/02/15/there-no-issue-with-apple-cables</link>
+				<pubDate>Wed, 15 Feb 2012 14:33:00 +0000</pubDate>
+				<description>&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;center&gt;&lt;a href=&quot;https://picasaweb.google.com/t.c.lansdown/IfYouVeGotAThinGripDonTHangAbout?authkey=Gv1sRgCLu5hpP8hY69FQ#5709370460076661490&quot;&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/-yVR7EdjISGY/TzvCLxP6WvI/AAAAAAAAAUA/qJx9OnZixwI/s288/0.jpg&quot; border=&quot;0&quot; width=&quot;400&quot; height=&quot;400&quot; style=&quot;margin:5px&quot; /&gt;&lt;/a&gt;&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/posts/2012/02/15/there-no-issue-with-apple-cables</guid>
 			</item>
 		
 	</channel>
