@@ -11,4 +11,12 @@ blogger_orig_url: http://ui.lansdown.me/2012/04/disable-file-extension-change-wa
 header: yes
 ---
 
-Another great little tweak to make life easier:<br> &#8220;defaults write com.apple.finder FXEnableExtensionChangeWarning -bool false&#8221;<br><br />via <a href="http://osxdaily.com/2012/04/11/disable-the-file-extension-change-warning-in-mac-os-x/">OSX Daily</a>.
+Another great little tweak to make life easier:
+
+'''
+defaults write com.apple.finder FXEnableExtensionChangeWarning -bool false
+'''
+
+via [OSX Daily][1]
+
+[1]: http://osxdaily.com/2012/04/11/disable-the-file-extension-change-warning-in-mac-os-x/
