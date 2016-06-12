@@ -1,8 +1,8 @@
 ---
 layout: page
-subheadline: Graphing Blood Pressure with Pythonista
+subheadline:
 title: Pythonista Pressure
-date: 2016-06-09T12:28
+date: 2016-06-12T12:28
 author: Terry Lansdown
 tags:
 - python
