@@ -13,9 +13,9 @@ header: yes
 
 Another great little tweak to make life easier:
 
-'''
+```
 defaults write com.apple.finder FXEnableExtensionChangeWarning -bool false
-'''
+```
 
 via [OSX Daily][1]
 
