@@ -1,0 +1,62 @@
+/* Contact Details Style Sheet */
+
+body {
+	color:#FFFFFF; background-color:#4D4D4D;
+	margin:0px; 
+	padding:0px;
+	}
+	
+A:link {text-decoration: none; color: white}
+A:visited {text-decoration: none; color: black}
+A:active {text-decoration: none}
+A:hover {text-decoration: none; color: black;
+}
+
+body#tabletext:hover {text-decoration: none; color: black;
+}
+	
+table.center {
+	margin-left:auto; 
+	margin-right:auto;
+	padding:0px;
+	font-family: 'Helvetica Unicode', sans-serif;
+	font-size:60px;
+	border-color: #606060;
+	 border-width: 0 0 1px 0;
+	 border-style: solid; 
+}
+
+t.text {
+	
+}	
+
+th.underline {
+		border-color: #606060;
+		 border-width: 0 0 1px 0;
+		 border-style: solid;
+	background-color: #4D4D4D;
+}
+
+td { 
+		 border: 0;
+	background-color: #4D4D4D;
+}
+
+p {
+	font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+	font-style: normal;
+}
+	
+.last tbody {
+	border-color: #999999;
+	border-width: 0 0 3px 0;
+	border-style: solid; 
+	}
+
+#Content {
+	width:50px;
+	margin:10px auto;
+	text-align:left;
+	padding:25px;
+	border:5px dashed #333;
+	}
